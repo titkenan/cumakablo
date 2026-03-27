@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/scrape.js": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "api/channels.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  }
+}
