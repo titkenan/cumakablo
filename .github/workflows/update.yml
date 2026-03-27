@@ -1,8 +1,9 @@
-name: Update Channels
+# .github/workflows/update.yml
+name: Update Live
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '*/30 * * * *'  # HER 30 DAKİKADA BİR!
   workflow_dispatch:
 
 jobs:
@@ -10,24 +11,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       
-      - name: Install dependencies
-        run: |
-          pip install selenium webdriver-manager
+      - name: Install deps
+        run: pip install selenium webdriver-manager requests
       
-      - name: Run scraper
+      - name: Scrape fresh links
         run: python boru_scraper.py
       
-      - name: Commit changes
+      - name: Upload to Cloudflare KV
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
-          git config user.name "Cuma Kablo Bot"
-          git config user.email "bot@cumakablo.tv"
-          git add channels.json playlist.m3u
-          git diff --quiet && git diff --staged --quiet || \
-          git commit -m "Güncelleme: $(date +'%d/%m/%Y %H:%M')"
-          git push
+          curl -X PUT "https://api.cloudflare.com/client/v4/accounts/$CF_ACCOUNT_ID/storage/kv/namespaces/YOUR_KV_ID/values/channels" \
+            -H "Authorization: Bearer $CF_API_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data @channels.json
