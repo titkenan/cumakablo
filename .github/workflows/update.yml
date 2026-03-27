@@ -1,4 +1,4 @@
-name: Update Boru TV
+name: Update Channels
 
 on:
   schedule:
@@ -6,26 +6,28 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  scrape:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-    
-    - name: Install deps
-      run: pip install selenium webdriver-manager
-    
-    - name: Run scraper
-      run: python boru_scraper.py
-    
-    - name: Commit & Push
-      run: |
-        git config user.name "BoruBot"
-        git config user.email "boru@tv.com"
-        git add channels.json boru_channels.m3u
-        git commit -m "Güncellendi: $(date +'%d.%m.%Y %H:%M')" || exit 0
-        git push
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install selenium webdriver-manager
+      
+      - name: Run scraper
+        run: python boru_scraper.py
+      
+      - name: Commit changes
+        run: |
+          git config user.name "Cuma Kablo Bot"
+          git config user.email "bot@cumakablo.tv"
+          git add channels.json playlist.m3u
+          git diff --quiet && git diff --staged --quiet || \
+          git commit -m "Güncelleme: $(date +'%d/%m/%Y %H:%M')"
+          git push
