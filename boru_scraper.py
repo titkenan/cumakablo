@@ -10,7 +10,7 @@ URL = "https://boru-pc-tv.vercel.app/"
 
 def start_driver():
     options = Options()
-    options.add_argument("--headless")
+    options.add_argument("--headless")  # BU SATIR OLMALI
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--start-maximized")
