@@ -1,198 +1,717 @@
 {
-  "update_time": "2026-03-27 11:50:28",
-  "total_channels": 48,
+  "update_time": "2026-03-28 01:35:25",
+  "source": "boru-pc-tv.vercel.app",
+  "total": 142,
   "channels": [
     {
       "name": "24 TV",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/24tv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690095014&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPXhZY2w2QnRtNllHM1YwREU4b041elE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg3YzA1OGIzLTMwNTUtNGViYi04YmU5LWE0NTU2ZDIxNTU0MywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/24tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVhVanFxUmlqaGZUWGFCd2daSCtOMXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg3YzA1OGIzLTMwNTUtNGViYi04YmU5LWE0NTU2ZDIxNTU0MywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "360Tv Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/360tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTNFcDZnNngyRnVuWkcrK1RPd2I3TUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY5MGIyNzBkLWM3OTEtNDAyOS04MWQ5LTk5NGM4MTcyMWZlNywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "360 TV",
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/360tv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254033548&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTVSdVpuOENTY3FiaTNyZnBwNkV4aWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY5MGIyNzBkLWM3OTEtNDAyOS04MWQ5LTk5NGM4MTcyMWZlNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "A Haber",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/ahaber_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094987&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPS9aK2xUQW1Pamh2cERRQXRNSTFHckE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDM0Y2YwMGM1LTZiY2QtNGZhYi04MDdkLWZiMGMzODg2MWRkMSwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/ahaber_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155214&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVFwczVmOXByOUZOYktUTlVUbVZHT0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDM0Y2YwMGM1LTZiY2QtNGZhYi04MDdkLWZiMGMzODg2MWRkMSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
+    },
+    {
+      "name": "A News",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/anews_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTl0NnBqUUZmQzRKSHUvbmtWSjI2YUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDQxOTU2MDM5LTkyYWItNDg0YS1hYjBjLWNmM2FjOTU1NTZhZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "A Para",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/apara_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXhmeFRnUHZVdHZwL1h5N0J6dndHYlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGIxZmYwOTIxLTQ2OTYtNGZmNC1iYTJhLWE4NWQ1NDI3ZjNhZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "A Spor",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aspor_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVA1eUxOZS9VWHczS0k4U3pZZ1F4MHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDBhNzk3YjlmLWE2ZGYtNGY1Ni05MWVlLTQwZWI0N2Y4MGJkOSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
     },
     {
       "name": "A2",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/a2_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690096972&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPVl3eXhHdW03RFpjNm8zbXFWSDlmaXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDIyNzIwNzI1LTNhODItNDQxOS1iZjFkLWU3MjQxNzZhNGZiMywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/a2_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254033375&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTl5M0ljYmFkWGNsM0RNTS8ycVFPTUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDIyNzIwNzI1LTNhODItNDQxOS1iZjFkLWU3MjQxNzZhNGZiMywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "AS TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/astv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPURxS0tsRHZBK0YwS3E1emFBUzRqclE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGRmODY3YjU3LTA2MDctNDJkNy04ZTU1LWY0Zjg5YjU5ZWRhNiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "ATV",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/atv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094817&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTN2K253YlJTSVlJSDlaSitMb1IyY0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDAyYWJkMTYzLTVjMGEtNDQ0YS1hMDM1LWNiNmY0NWI0NzAwYSwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/atv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=254032664&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUt6OFdpWmNDNll5d2hCVXpoT2VOdVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDAyYWJkMTYzLTVjMGEtNDQ0YS1hMDM1LWNiNmY0NWI0NzAwYSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Benguturk Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/benguturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPVg4ZVozSW15dHJWSWw1ZHJmc25SVFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGEyYzNjNWQ5LWVjOWEtNGM0Yy05ODA4LTczMTFlMGI4ODA1YSwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "AZ TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/aztv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145156014&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWFkaEY2OG9DZys3OTZKa1BiTDg3Mnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGI0NTJkN2I1LWEzYmUtNDJlMi1hMzk4LWQ1ZDUzMWNhNWUxZSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Akit",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/akittv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155442&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWE3K3lFRkJvKzQvKy9hRjBvd0w5d0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGMyNzEzODQwLWU0NDYtNDNhYi04NWViLTAyMTVhYTU2NGQ0MSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Al Jazeera (Arapça)",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/aljazeeraarabic_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145156224&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXh4UFFEd3F2U0lFbG5jQUlnZVFEb1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGYxYmI2YjFhLTg1OTktNDdiMC05YjM5LTk4MWQ0Y2Y2MWQyMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "Al Jazeera (İngilizce)",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/aljazeeraint_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145156240&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPTY3SnAxQXlBYm9aNzhBcVBtNXFYSVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGJjZTFkYjdlLWFhZTItNDZkNi1hNTQ3LTkxMGZlZjY4MjVlZSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "Al Quran Al Kareem",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/alquran_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145156145&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPStISjhTekF1OTVId0czL0Q0MWJhMkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDFmMDNhZDc3LTA2N2ItNDM3Ni1hZjdkLTJkM2JkMGEwZTE2YywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Dini"
+    },
+    {
+      "name": "Al Sunnah Al Nabawiya",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/alsunnah_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXhUa0VGT1RaRC9DY3NzQzhRN2NuMUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDIzYmY3ZWZhLTgyMmUtNDE1NS04ZmY1LTE2OTAzZWFlNjcwYywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Dini"
+    },
+    {
+      "name": "Arirang",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/arirang_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXBXallkc3UvWjBOT0NhNS9aR1lFYUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDY1NTA5YmJiLThjODYtNDFmNi1iMmQ0LWVhNzQ0MWFlZGYzYywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "Azoomee",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/azoomee_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXo0eU1EUU5mYk50blpuMTZVb1hQclE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU3Zjg4MmQ0LWY5ZjEtNGI4Yi1iOTE3LWJlMGY3N2IwNmJjOSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "BRT 1",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/brt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPU9oQ0JDemh5WmwxZWZaeWVxOHJQUkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDFhNWM0MDc3LWZjOGUtNDczMy04NzllLTFlODIwOTU1Y2E1ZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "BabyTV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/babytv_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=306436895&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVAwdTlvTzluaFh6SGJGZkwxVG4zbFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDYzNDdlMzFiLWFhMTQtNDM3YS04OTAyLTVlOGUyZjU3ZTZkMSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "Bengü Türk TV",
+      "url": "https://cdn01.kablowebtv.net/live_turksat_sub3/benguturk_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=743585984&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVVyTUdiTUpmM1hENEVHOVBMVmpuL0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGEyYzNjNWQ5LWVjOWEtNGM0Yy05ODA4LTczMTFlMGI4ODA1YSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "Beyaz TV",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/beyaztv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690096995&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPXUzMnpZTXl0cm5qQUNzY01KZFBncEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFhOGZmZDM0LWNkMTYtNDc3Ni04MWVmLTExNDVhNWQ4MjEyMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/beyaztv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVd6RnM3TlZyc08zNEhma2dTeFJIYWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFhOGZmZDM0LWNkMTYtNDc3Ni04MWVmLTExNDVhNWQ4MjEyMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Brt1 Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/brt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPUhsZ2czQVFYSUZjMU9HZ2RmTSs2TXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDFhNWM0MDc3LWZjOGUtNDczMy04NzllLTFlODIwOTU1Y2E1ZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Bir TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/birtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUdwMmpWK1NzUVEwS1duTU5JOUpaWmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDA1YmYzODJiLWViMTgtNGFlMy1iOTU5LTQwZDU1ODc3NmQ3YiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Bloomberg HT",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/bloomberg_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUhDTFVIUG5taVR6VDlPbndkekJZakE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDAyZGU5YmYwLWNmYmItNGE2OC1hOGVkLWRmOWM5YmE5Y2MxOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Bloomberg INT",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/bloombergtv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145156210&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVBXNVNBYUprSTEvUHJmc2FvSjdlWFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDljMDBlOWVkLTRmMWItNGI1YS1hNDlmLWUwMDE4OWM4ZmVhNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "CCTV 4",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cctv4_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPWtMTHNTM3N2T0o0eDdjOFZSRXdvNWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGQ2M2ZjNThkLTZlMzMtNGYzYS1hNWZmLWEwZTY3ZGVlOTEwZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "CGTN",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/cgtn_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145156347&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUloL2VBVGgyUkpjaUVWUHIxUzVsYUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDI2OGI2ZDVlLTk2NTQtNDE1Ny1iMjBkLTYxOGM0ODQ5MjNiOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "CGTN Documentary",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtndocu_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXdNY0hnYWs3QXU5bGFEWlFueHl1Vnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDgwMzViNjU1LTdlZmItNGQ1Ny1iYWIzLWQyMWY1MmE4ZGU4MywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "CNBC-e",
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/cnbce_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254034004&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXZuU1FVWWlhbFNnWU8vck15NWxBZVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGUxMDQwNDg4LWI5NjMtNDY5Mi1iNTUwLTQ0NGJlOTM0ZjM1ZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "CNN International",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnint_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPWNpb2M2Q0N5OWZoYStnWTRRNWU3Mnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDY0YTRkMjI4LTM3ZjQtNDcyMS04ODUwLTdjZjI5ODk3MTdhNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
     },
     {
       "name": "CNN Türk",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/cnnturk_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094998&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPXZmZWNVY2cyakFNUmlhbFR0YUNqMWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDdkMjU1MTFlLWE0NjMtNDY3MC1hY2RjLThiMWRkNThjMDliMywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTFUVHN5eFI4WXZ3dExjeGJzZGUrN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDdkMjU1MTFlLWE0NjMtNDY3MC1hY2RjLThiMWRkNThjMDliMywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
     },
     {
-      "name": "Cnbce Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTFxT2pSa0pYUmFqMUVmb1luMEp5UFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGUxMDQwNDg4LWI5NjMtNDY5Mi1iNTUwLTQ0NGJlOTM0ZjM1ZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Cartoon Network",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cartoonnetwork_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUNHbmtIWE5HblkvVzhNYlVheWgyQnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDUwZjVmMmJhLTRmMTctNDE1YS04YzIzLTE2NTkxOTdjOTAzNCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
     },
     {
-      "name": "Diyanet Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/diyanet_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTZJTTV4L0VjZ052UjJQNkZIc0xJL1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDIyNGM5ZGE0LTg5MGYtNGNlYy1hZWU5LWI3OTBkMTQ1MzQ4YywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Classical Harmony",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/classical_harmony_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPW5HU3QvUzMrM2VOZTlyQjJFU2FiOEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGUyNTQ1NzY0LWQ3NGMtNDY3OC1hMGMyLTNkN2RmNjEzMDJhNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Müzik"
     },
     {
-      "name": "Dmax Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/dmax_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPWZMcVIzVGxWc1JpbUdKZjQvZUNqVGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFmY2I0YjQ5LWY3NGMtNGNjMS05MWNhLWZlOTY0MGJlZjBhNywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "CosmoSports",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/fightscreen_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155942&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWJZYmFUcTJ2dzJxTENOQWNUYlU1N2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDgyN2ZhNWQzLTQyMGMtNDQ4Zi1iOTliLWVmZjAwYmZkOTVmMywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
     },
     {
-      "name": "Ekoltv Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ekoltv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPUFuak9GbTdFNVE1WW9VL21jV2RXT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGM2ODM4NThjLTIzZDUtNGE0My1iNzY4LWU0M2E0ZDRlN2RmMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "DMAX",
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/dmax_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=254033728&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVUzVFFYWkREdG4ra1A2aE9uR3pVREE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFmY2I0YjQ5LWY3NGMtNGNjMS05MWNhLWZlOTY0MGJlZjBhNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
     },
     {
-      "name": "Gzttv Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/gzttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPVNqN0szQ0xJNWgrQUg1WnN2dUwxeHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDFlNzNkOGNiLWM4YTEtNDI4ZS05OGMwLTMxNGQ1OWIxODc5NCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "DW TV (İngilizce)",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/dwtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPVJQb0FWZEFDUk5UZ0JCNm94ZTNSdFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDE1NDhhZWM2LTU5YjYtNGQ2OC1hYjYwLWQ4YjMyYTdmZDhkYSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
     },
     {
-      "name": "Habertürk",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/haberturk_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690095024&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPU9OdUErSFNRYUpjNTdsLzMwWDdPWWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg5NTFlODJiLWM3YmEtNDk3Ny04YzAwLTE0MmM1NDJmOTdmMSwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Da Vinci",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/davinci_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXVsZlNrUG5xUXV2MlBJWi9WdnI2SWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDA0NTZkZmY4LWU2ZWUtNDg3MS1iMDMyLWY5ZTc0ZDE2OGNhNSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "Discovery Channel",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155729&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUpYYUNhR2FtNDhodkIwa1BhbFliSlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg3OWYwOWFhLTFhOTEtNDlmYS04OGZjLWE3MjFlMzExMzJjMSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "Disney Junior",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/disneyjunior_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPS9lQ3FZMW1TRi9tbnJCaXFhUHBxNlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDc1MjgxYzQ5LWJkNDktNDAxYS1iOTNmLTMxOWFkMzBjMDkzZSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "Diyanet TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/diyanet_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155056&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVRqaUV3enJxY0I2R3Z0MWlzaFBqeVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDIyNGM5ZGE0LTg5MGYtNGNlYy1hZWU5LWI3OTBkMTQ1MzQ4YywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Dini"
+    },
+    {
+      "name": "DocuSCREEN",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/docuscreen_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=145155791&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUhIWUIzSWZEd1p6THJzamUxR0dQNVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDQ5NzRjNzI3LTIwZDQtNDY0Yy04ZGIwLTg1MTA3ZDY3OTc5ZSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "Dream Türk",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/dreamturk_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436589&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVpaRXE5M1F1TWhLT3REcDlhYXpqdlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDBhYjBmOTMzLWNkNzktNDM2Yi04NjZjLTUzMjBlOTJkYTAzNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Müzik"
+    },
+    {
+      "name": "Duck TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ducktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWxQbnJzUmlBeFVPTW9LQy9zSXgwSkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDIyZDNmYWQ4LWE3YjEtNDBlZC1iZTI0LWRkNzkyNzE4NmU1NywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "Ekol Sports",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/ekolsports_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155961&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXQ0dTQrQ3V4RFpLNHRGQW45Y1J0c3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGQ2OTAzYzIwLTZlZGUtNDQwNC05NzVmLTdjN2YyMmY3MjBkNCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
+    },
+    {
+      "name": "Ekol TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/ekoltv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145154909&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXFyQ1hyZlFWUk40MlJlOWozR2tqdEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGM2ODM4NThjLTIzZDUtNGE0My1iNzY4LWU0M2E0ZDRlN2RmMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Ekotürk",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ekoturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUg2SGxkUkVRRldlcy9XdE45Yi9OZnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDNmY2YyZTBhLTU5ZWEtNDFhYS05OWM0LTI1MmQzYWU4MjY0ZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "English Club TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/englishclub_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTBzd1RZemt5Uk9hdjlZdkZpdHh3Umc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU2MzFjM2Y2LThhOTYtNGExMC1hMzRkLTI4NWU5NDFlMDJhOSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "Epic Drama",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436719&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUNMc3pSczc5YWIrSHJGdWFyVzZpbVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGViZmJhNzhhLTY3MzEtNDBiMy1iNzUyLTc1Nzk1MjgwZWQ1OCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "Eurosport 1",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155877&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXpibWNFb21JVlNmdXVza1N5UUdYaEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGM5ZDg0YzhiLTU3NDItNDhhZi1iYmYxLWFjN2QxNzZiM2M3YSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
+    },
+    {
+      "name": "Eurosport 2",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=145155895&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPW1nR2xoRjIwWm15ZGVWelBjNkc3N1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY5ZjM0ODhlLTEwNWQtNDJhZC1iNWY1LWEwY2IzZjA4Mjk3MSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
+    },
+    {
+      "name": "FB TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/fbtv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155999&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPStyWTZOQ0diQkwxVThOSCtxVXBWd0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDY2ZWFhMTQwLWE2ZDEtNDc3ZS1hNWRhLTcyOTgyODg4OWRkNSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "FILMSCREEN",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/FilmScreen_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=306436734&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPWZGQ2JHS3F2Q21yRzloVEplNUlVZmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGM1YmNhNGJjLTI1NzYtNGU5YS1hNTgzLWRiN2ZlMDJkMTE3YSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "FX",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXpVL0RyUGFyOWZtRVpFUWE5d1k5MkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDc0MGE2N2JiLTkxMTctNGYxOC04NTFhLWE1MzI1MDlkODQ2YywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "Flash Haber",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/flashhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXJZckVTdGl2b1loZXNkSE55bHNwTGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGNhZTc2NzgyLTczNDYtNDM4OS1iMjIxLTZiZDNiN2Y2ZWVmNiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
+    },
+    {
+      "name": "France 24 (Fransızca)",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/france24fr_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=145156320&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUJFM1ZybzdNTzZ4eGI5d0lYeGlJVlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDdkNzhhY2QxLTc5ODEtNDVmMy1iMzJhLThlMjM3MDY2ZjliOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "France 24 (İngilizce)",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/france24en_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXhWMVE2dmR2dmJGYS9ld1cwc01KQ0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGM0NmEwMTk5LTI0MTUtNDI0Zi1hNDBmLWExODM3NWFiZjNhNCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "Freedom",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/freedom_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145156134&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUhEM0xVU3QvOXp6Z2JFUUQvWDZ3UUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGIzMmY0NTYwLWQxMjYtNGU5Zi1iNmJmLTRiNjM4MDY3NzA1ZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "GZT",
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/gzttv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254034178&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPVNTTjlPcjA5c2xLeW52NCtHV3dqNmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDFlNzNkOGNiLWM4YTEtNDI4ZS05OGMwLTMxNGQ1OWIxODc5NCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Genç TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/genctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPWxXbTE5c2FCdnE4Ri9hZENUcGRvSHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGNmNmRmNWRjLTEyY2MtNDNkOS05OTlmLTlmODAwNTg5YmViMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "HT Spor",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/htsporhd_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155908&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUZsQVcvajN4WXNMdU1oZ2VGekZ3a1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGUzZjU0MzQzLTIyZjItNDVjZi04MWMxLWVhZjY4OWM3ZDlmYywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
+    },
+    {
+      "name": "Haber Global",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/haberglobalhd_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155487&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVJ1RTFIVEFET1NOeS85VkswaEJnYVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDI0N2E4NGNkLWNkYWQtNDU1Ny1hZGU3LTI5N2YzZTlmZjFhZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
+    },
+    {
+      "name": "Halk TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/halktv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155531&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVZHL01nWnh1WE9nTm94V3hwU0JLblE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDNjMGM0N2NkLTAxNjktNGQxYi1iMzYyLTgxN2MyYTMwNDAzNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Hayat 2",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/hayat2_stream/tracks-v2a1/mono.ts.m3u8?nimblesessionid=145156101&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPWp6TzFXV1B2TWk0YnNTTnZSMDVwN3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDUyOGQwZmUyLTE5MTAtNGU4OC04N2Y0LTFjOWUwNTJhMDE3MSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "ID",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/id_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155745&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVB0aEZXKzVqRmdOTUVldDhrUy9qdnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDAxZTllN2MxLTUxNmItNDkwMC04MmUxLTJhYmRkN2QxN2Q4ZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "KBS World",
+      "url": "https://cdn07.kablowebtv.net/live_turksat_sub3/kbstv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=231175960&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPTAzN1RDU0xPK3FINmx1T0N1a1FPS0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDIwZmQ1Mjk3LWVmYjctNDYwNy04YjIwLTJmN2FhMDliZTBiOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "KRT TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/krttv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155512&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPU9hcVBCUGlXWnpTcVg5ZTJzR3ZIeFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDY4Njg1YTJkLTA4OWItNGIwYi1hNGU5LTk5YjQ5MTBmYTFiOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Kablo Info",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/kabloinfo_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436563&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUk3bDdlYnkrUzdvVm8vYUpwZFd4M0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGI3NDZhYzI3LTRkNmEtNGZjYi04Y2IzLThkM2ZlYjA1OTc3OCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "Kanal 7",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/kanal7_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094852&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPVhVb3hqeXdBMmZOVDU0TEpHbDZJdWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFhZjJmNTA5LWU5ZDMtNDllOS05ODgwLWJkM2RhNWRhZWM4YywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/kanal7_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254033018&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVhsZlMxUVNFQ2JnQjhCTGNqUUk1Qmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFhZjJmNTA5LWU5ZDMtNDllOS05ODgwLWJkM2RhNWRhZWM4YywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Kanal B",
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/kanalb_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254034352&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXRndFlMdnV1a1FjNTducEpmTjJqcHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDY5NmI4NTY0LTk3YzYtNGI1YS04N2FiLWFhMjdmOWRjZTExZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "Kanal D",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/kanald_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094837&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTd1OHUrOEdlNDNBSlBwVGMyRjZHZGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDk0MzNhNmRiLWE2MDEtNDllOC1hMjk4LWNlMTNiNTUzZTQ0YiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTZWaVFlM2lqWVdMMlp4WEpEbUlpMGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDk0MzNhNmRiLWE2MDEtNDllOC1hMjk4LWNlMTNiNTUzZTQ0YiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Kanalb Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kanalb_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPWlSUEhhTFhCanpxMm1LUzEyQXdUZmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDY5NmI4NTY0LTk3YzYtNGI1YS04N2FiLWFhMjdmOWRjZTExZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Kitchen TV",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/kitchentv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=306436772&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPU9HWVdRYVVpSzE3NTcyQTJHRFpqVUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGJlOTg4YjU1LWM3N2ItNDU2Zi1iM2JhLWI0M2NmMWQ2Y2U1MCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Lalegul Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/lalegul_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPVRkaElhVWJKWHZ4QkdRYU01MnE5Y0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY5YWZiOGZhLTU2MWQtNGVhOC1hMzMzLTRhNDNlMjJhYjllMywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Kon TV",
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/kontv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254033819&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUdKbm9lWVUzTTdWdUwxQW5RaUhvM0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU4ZTIzZTk0LWIxZmItNDY1MS1iYjEzLTAwNjBkYmYxZGZlMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "LangLab",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/langlab_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXlob3hqcFY2U004Y0lsa1B2YmFRVUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGNhYTRjZTY1LTI5NWUtNDQxNi04ZGM0LTVlNzhkZmJlMmIxYiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Lider Haber",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/liderhaber_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155611&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPStGNGZrMEI3d3NHQmg4dGgzcXUzUWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDRkMmFmODQwLWM5OTYtNDNkNi1hNTlhLTJjNzFjMTk3MWMwMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
+    },
+    {
+      "name": "LingoToons",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/lingotoons_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUJxOWE1djBKWS90TlduQTFCOUp6MFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDYzN2YwMWY1LTA1OGMtNDllZC1hZjYwLWNkOTE4NDg5NTE2OCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "Love Nature",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155778&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUpod3Z0d1c1UzloMm1Rd3lpbWlpWEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDYwNGMxZWU1LWY2MzQtNGIyYy04ZjExLTkzMmUwYzk5ODNmOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "Lâlegül TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/lalegul_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155106&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUJzY3hmcWZOVWY1ejlYMmtlRk1QRkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY5YWZiOGZhLTU2MWQtNGVhOC1hMzMzLTRhNDNlMjJhYjllMywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Dini"
+    },
+    {
+      "name": "Mezzo",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/mezzohd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPVVSd2hrNnVUa0dBOE4vVytQQVdxQlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDRiZjU4NzA3LWU0NDAtNDIzNC04ZDgwLWNkZmRjNWZhODQ2NSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Müzik"
+    },
+    {
+      "name": "Minika Go",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/minikago_stream/tracks-v2a1/mono.ts.m3u8?nimblesessionid=306436841&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTY4cnUvUHhEK0N1cWxKVzN3S09TL2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGM5Y2IyNGY5LTYyYWItNDA4NC1iZDBlLTQ0MTY1NjQwZmIyMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "Minika Çocuk",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/minikacocuk_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=306436826&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVVPMXV4K2xTWTQ4R1BnVVVSUVJBR3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGZmYzJmNGY4LTNhMzktNGRkOS1iNWM3LTNiZDU0YTgwOWI2NywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "Moonbug Kids",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/moonbugkids_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPTFFUlFYS2lBb084UkloWkk3a1RTRWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDVjYTVjM2FkLWM2ZDYtNDYxNy1hYTc0LThlYmY2YWM4MGU5NywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "MyZEN TV",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/myzen_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436788&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUNKMDhjNDFVTXBQT1VqTTRmdHlKd2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDVhM2RkYTNmLWQxYjQtNDA4Ni1iYThjLTEzYTUwMmJhZDRmMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "NHK World",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/nhkworld_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436550&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPVRxelZtbEd2aTJjOG9sT3NubjNrYmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDhlOGMxNzAxLTgzOGYtNDBjYy04ZWVhLTBiYTk1MDMxZGMxOSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "NOW TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWwxT3hqdURxNWhMMGtSTUxmMWFrbXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDM2MzljOThmLWY3OTUtNDBjYi1hNGIzLThmZWI0ZGUwNWQzMywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "NTV",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/kontv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690096654&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPVlsemlnbThxemVsRk1KKzVpUk9ualE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU4ZTIzZTk0LWIxZmItNDY1MS1iYjEzLTAwNjBkYmYxZGZlMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ntv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPU1QemZ1MmNKRW5BN3g4YzN1akFxeHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGJiZjVmNjdjLTBkZjktNDEwYS1iNmJmLTE1M2UyZWU3ODEwNiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
     },
     {
-      "name": "Now Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPU1PenlhNlV1Uk5ZeFN1U3d4WEphRlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDM2MzljOThmLWY3OTUtNDBjYi1hNGIzLThmZWI0ZGUwNWQzMywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "National Geographic",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeo_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXA5ZSs3UDgrYnJqYkROWGhUNmxGVXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDAwMzEzYmVjLTdlOGUtNGNjYS1hNWZkLTI4MTdjZGRmY2I5NywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "National Geographic Wild",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/natgeowild_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155715&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXl2Nmd5N2R0eUNCZ29BYUlJV3NlbUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGU0MjllZWJmLTRhNmEtNGZhMi1iY2M2LTI1MjA2MGJhYWU3NiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "Planeta RTR",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/rtrplaneta_stream/tracks-v2a1/mono.ts.m3u8?nimblesessionid=145156112&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPWpUK0ZzdEdIV2xkWnUrZ1JDeWFzRWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDc2NDc2ODg3LTc0ZDktNDI0Mi1hMWYyLWI4YzEwNjBjYWFkMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "Russia 24",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/russia24_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPVF4N1RUaENXQWVBbFM0anNTcGV5QVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDhlZDg3MGU0LTYzMjYtNDcwYS1iYjMxLWQxNzJmZDQyNGRkOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
+    },
+    {
+      "name": "Saudi TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/sauditv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145156074&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXVEOVBBUnVhckNSWExqNHRuaW1FdWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg4MWEwNWQxLWFmOWQtNDkyZC04NmU3LTU1NjdhOTA2NzdkNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
     },
     {
       "name": "Show TV",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/showtv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094828&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPWFjc3UxNHUzNDY3Y1RjTXRqSU5ERWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDgyYmI3NGYzLTA5MDYtNGVmYy1iNjZkLWNlZmE3MmU2NTllNiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/showtv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=254032757&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVRwYUY4QVpXdVNjQzdEbzI2aEdJaHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDgyYmI3NGYzLTA5MDYtNGVmYy1iNjZkLWNlZmE3MmU2NTllNiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Sinema 1001",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWMvckNKS05sZThGanpFQzZ3MGU2ZHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDRmN2FmYTQ4LWFjYTMtNGFjNy05OTJmLTg2NWVjZGJiYmRiMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "Sinema Aile",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub/sinemaaile_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=306436660&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTdvV3pyVGcrdjI3bGJBZ2Rsa2d5Vnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDk0ZDg3YTY0LWVmZTItNDViMi1hNWZiLWEyODYyNjhkYTlkOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "Sinema Aksiyon",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436631&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWF5MzNYdTNjT244dk9RVnN2WDhkTlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDdlMWJiNWQ0LTQxNWUtNDgxMi1iZmNmLWM5OTJmY2RkZTM1NSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "Sinema Komedi",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436687&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVg1NlZGek9rNEx2bHJFV3h5MWdwMEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDYxYTMwYzkzLTIxZDctNDY2My04YzZiLTkzNDBhNGFjOTA3NSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "Sinema TV",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/sinematv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436617&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVpVZnpZQVhwMjlOTEY1akdwT3Rqa2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDVkMGVkMzI0LTlhZDItNDdiMi04ZGZlLWFiN2Q1NDQ0MjM5OSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "Sinema Yerli",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=306436646&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUloZUZpTWxET0ZvLzhVM0c4YlZZUVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDlkYzU5ZDg2LWYxZDgtNGNjNi1hZDJjLWQ3YTA3OWQ2M2UyZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Sinema & Dizi"
+    },
+    {
+      "name": "SpaceTOON",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPTl3d3o2MktwNjd5bnRnRnlwbCtQeEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDY0OWJmOTFkLTg1MDMtNGRlMC05ZjllLTI1M2IzYjZmZDJlZSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "Sports TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sportstv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXpxNGpjZ3loUzhFSHdTVi85amNzb2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDE2MjY1ZTYzLTU0MzItNDAzMC05OTA2LWY0Y2Q3MzZmY2I4OCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
     },
     {
       "name": "Star TV",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/startv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094842&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPXZ2N0lTMUZmTnNVZkFlZzRrMzZOamc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg5Y2ZjMDlkLTkzYzgtNDg4Mi05ZmUzLTM5YWRiY2NiZTY3ZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUwxeGpKSi9nZ0J3ZldHVEtYQlo1a1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg5Y2ZjMDlkLTkzYzgtNDg4Mi05ZmUzLTM5YWRiY2NiZTY3ZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Sözcü TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/szctv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155568&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXZqazlFNmEwMTZLOFJwODB6Q296ekE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGQ3OWVjNTk5LTZjNzItNGFkZC1iNTcwLTA0NjNhNjIxZmQ3YywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
     },
     {
       "name": "TGRT Haber",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/tgrthaber_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690095019&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPW1RRDZkOTkvZlA1QzQ3c2ZWYmFoWFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDRhOWE2Y2RiLWNiM2MtNDRkOS04YmRkLTJjMjFjNTFiZGQ0NywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/tgrthaber_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155342&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUUrdFV0TDlxNUFMZFV2Vlh6VXBOTkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDRhOWE2Y2RiLWNiM2MtNDRkOS04YmRkLTJjMjFjNTFiZGQ0NywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
+    },
+    {
+      "name": "TH Türk Haber",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155549&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTFNMGovb21OcGgrN1pFdWMxQWFPZFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDUyZDQwZTdmLTM3ZmEtNDljOC1iNTUxLTFmYzAzZTNiOGNjOSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
+    },
+    {
+      "name": "TLC",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUoyWTRjZnBvRjcwZlZJb2dVb3VPVVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY3NjJkY2JiLWQ5MjktNDIwMi1iODRmLWQ5N2VhM2QzNTIyYSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "TMB",
+      "url": "https://cdn01.kablowebtv.net/live_turksat_sub3/tmb_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=743585691&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPW5yOElRVkcrMU1hWCt6dWd3WXhZVlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDBhYmViMjVjLTMxOTctNDBmNi1iODA5LWU0ZDAzNzEwNjEzYiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "TRT 1",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/trt1_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094805&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPUZQVUpQRloxOXdtR00rbzdTelBwUEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDA2MTMzMmMyLWQ2OWMtNDYwNS1hNzYwLTBlMmE4Mjc0Njk3YywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/trt1_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254032584&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUpYTGQ1N0ltZlpnSUNBajhqS282dkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDA2MTMzMmMyLWQ2OWMtNDYwNS1hNzYwLTBlMmE4Mjc0Njk3YywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "TRT 2",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/trt2_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690095765&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPWU0ZEhTeUVEV1UwRkMrY1c2L2p6TUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGEzNDdjZmM2LTFmYTQtNGE2ZC05NTAwLTM3NDJjZTUxZmVkZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trt2_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=743586121&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWhjSitKV0Vxa2FSeWtwZ0M5NUo3T3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGEzNDdjZmM2LTFmYTQtNGE2ZC05NTAwLTM3NDJjZTUxZmVkZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TRT Arabi",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trtarabi_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145156262&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVpQcnFOOUk5UTA2clZqZ1B3Ymg3cEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDk3YmNiNmRkLWEzNmEtNDNlOC04ODQ0LWU4NDIxMjZjNGRlMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TRT Avaz",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trtavaz_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145154725&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUorakE5ZEpRM3lRYmhjVFdDZkd3RGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDM5YmQ0ODFmLWE2NTgtNDJkZi05YzViLWY1ZWEyZTIxMDZiNSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TRT Belgesel",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trtbelgesel_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155683&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWgreDZ6TzduZFpqQU5XcXI0aHJQb2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDA3NDdhMGQ1LWJmM2MtNDhlMy04N2Y1LTY3ZDExMjM1ZTYxMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
+    },
+    {
+      "name": "TRT Diyanet Çocuk",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtdiyanetcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPTJkd3FTZTBVNFQ3ZEVMOERKdlJVNEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU3ODE1NWM1LWU2OTgtNGE4YS1iOTE2LWVkNjVmYjk3N2M3OCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "TRT Genç",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trtgenc_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145154582&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUh4QzJjcGNLOWptUlJWZ09rTjVaV3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDlmYjhhYTUwLWU4OGQtNGZiYS1iMjY2LWJjZTIwYmVkNzNkMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "TRT Haber",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/trthaber_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690094982&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTlFZUhjM3Z1bFpLZ2YxSWl2WVd3Y2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGI0MjM4NmQzLTcwNjQtNDkzZS04NjU3LTE4MTk0N2MxYTUyMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trthaber_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155173&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXN3bGlwajltbDhZNlVYNGdxS2VsSWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGI0MjM4NmQzLTcwNjQtNDkzZS04NjU3LTE4MTk0N2MxYTUyMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
+    },
+    {
+      "name": "TRT Kurdî",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtkurdi_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=145154857&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPW4zRVVOZkdSbXFlUGdLTDRKL0JJWHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDkyNWJhOGVlLTM3ZjAtNGI0OS04MjBmLTkzMTljZmM4ZmJjZiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TRT Müzik",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/trtmuzik_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=306436576&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWFmOURBejkxZXVpSW12R20yV2d5ZlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGM5ZTVmZGQ0LWM5MGUtNGI4Mi1hM2VhLTdiNjY0MmVmNDc2OCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Müzik"
+    },
+    {
+      "name": "TRT Spor",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trtspor_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155838&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPU53RkRzVDR6TEREdVdud2hTZ05wYlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDA4OTE5OGI1LThhYzEtNDhmNS04Zjk3LTA4NDI1MWQ0OTQ3ZSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
+    },
+    {
+      "name": "TRT Spor Yıldız",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trtsporyildiz_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155974&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVk5K3JvTGhSR29KeFpwK053aXJPMEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDE2MDc5OTZkLTVjOWUtNDgzYy1iZTdiLTE0OWM4NTk4OWRjNCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
     },
     {
       "name": "TRT Türk",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/trtturk_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690095558&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPUJSbTV3UjdHVXZBMWJCSU9EK2hLVUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDMwY2UzYjFjLWE3Y2YtNDA0OS04MjYwLWMwNjcxMGZkMDVhNSwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trtturk_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145154657&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPU1la0YxUW9JdnpKVXg0Zkc5b0FRMmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDMwY2UzYjFjLWE3Y2YtNDA0OS04MjYwLWMwNjcxMGZkMDVhNSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TRT World",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTFNZXRPTFBIdUpXOUxFQkV3aEN4S2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGQ5NmEyZGRhLWNjNzEtNDNkOS1hYzM2LWZhZTdhOGExNmYwNSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TRT Çocuk",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWpXajRDY1M4VlJUSnBUOUZHN21JTEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGQyYTU0ZjZjLWMyMjYtNGVhOS04NWUyLThlYmM1YzVlYjQ0ZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
+    },
+    {
+      "name": "TRT3 Spor - TBMM TV",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/trt3spor-tbmmtv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145154795&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXAzUXV1ZDFxN0VmZlEwbHFXUXdmSlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGJjMzNkMjk1LWMxOGUtNDk1NS1iNWZmLWQ2ZDhlYTVmZjdmNCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
+    },
+    {
+      "name": "TV 4",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv4_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUlqdVB1ekVHUkwrS0hIOTdVV3p6Z0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGNkM2Y2ZTMzLTUyY2EtNDY5Ni04Mjg1LTcwMDdmODUwZTdjNywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TV 42",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/tv42_stream/tracks-v2a1/mono.ts.m3u8?nimblesessionid=145154957&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPWJtc1Y5NFNTTGVNUDMvaWQyT2x6Y2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGVkNjI3NjdjLTZlZmYtNDdhOS1iOGQyLWU0MzAxYjhlM2UwMywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TV 5",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv5_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPURLYTlEOVZ6OXBtTEc1ZEkzMlVJVHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY0ODRhYTM2LTdjOTQtNDYzNS05MGJiLTc3NjA0NjliZDc5MywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TV100",
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/tv100_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254033910&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWpTMEczUWRLS3NOUC9Vb3Q4bUYyL1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU2MTBhMjU0LWVmMWQtNDRhNC05NGZlLTc0YjM4Y2M3Y2MyZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
       "name": "TV8",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/tv8_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=690097054&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPWlGTEJ3a2pxVGY0T1c3amZURzVzQkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU4MWFjY2RhLTRkNWYtNGMzZC1iNWYxLTE1NzliODVhMWU0YiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/tv8_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254033196&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVdCSUkvenJteDNDay9WOUdhY2hqdXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU4MWFjY2RhLTRkNWYtNGMzZC1iNWYxLTE1NzliODVhMWU0YiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Tarihtv Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPW8xTnpCd0lSYVdaMzhxaG1qK1Uvb2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFhMjI4NmFjLTkyY2MtNGM5Mi05MWUwLTVlMjFlNWE3ZjUwMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "TV8,5",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_5_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXhYYTBCbmFId2pWSHBraXZJQVR0cUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDk3YmY0YTNjLTY4ODktNDI3MC1hMGM5LTAzNjUwMTZkOGRjYSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "TYT Türk",
+      "url": "https://cdn01.kablowebtv.net/live_turksat_sub3/tytturk_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=743585555&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPUFQMjNFUE5KSCs0ZEhFMW5sY2lHVEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGVjZTE3ZTJlLWQ2ODQtNGJlMi1iN2E1LWFlN2NhNGM5NjA2YiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Tarih TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWFWYjd6dGNtYzdrS2NYc3BlS0R3WHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFhMjI4NmFjLTkyY2MtNGM5Mi05MWUwLTVlMjFlNWE3ZjUwMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
+    },
+    {
+      "name": "Tele1",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/tele1_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155630&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXY3aHhGQ2Zxb3Q5OHN5b2hxV29hQ2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU2MzBmYjdiLTE4ZTYtNGVjYy05OGZjLTJjNWM1NDJlZTExYSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
     },
     {
       "name": "Teve2",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/teve2_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690096935&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPXhpeTYrYjRoVE5iV3lBM0N5aVFpTlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGMwN2IyMjFmLTI2ZDgtNDRkMi1hNjRhLTJmYWMzNjJhZTkwZSwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/teve2_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254033460&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUxzTjBHVTBVckNZK1IwaS9iVE1ISEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGMwN2IyMjFmLTI2ZDgtNDRkMi1hNjRhLTJmYWMzNjJhZTkwZSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Thturkhaber Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPURheUdWNERFbCttWm9GaEJuUjB2R3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDUyZDQwZTdmLTM3ZmEtNDljOC1iNTUxLTFmYzAzZTNiOGNjOSwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "TinyTeen",
+      "url": "https://cdn05.kablowebtv.net/live_turksat_sub3/tinyteen_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=306437009&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0OCBBTSZoYXNoX3ZhbHVlPXdTZm9TazZIbmhxVmhqd1FCbkU2ZkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDk1N2ZmMzk2LWUzY2MtNGQwYS05OGFmLWMwM2JjNjkwZmZlNCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0OCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Çocuk"
     },
     {
-      "name": "Tlc Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTF0bHNrTG1GeEhxeHBmMmYvcVJtS1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY3NjJkY2JiLWQ5MjktNDIwMi1iODRmLWQ5N2VhM2QzNTIyYSwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Trace Sports Stars",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tracesport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUJ2cVpFWWVNMXhpY2s2OE5xVDV0OXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGNhN2VhNDk3LTlmZTMtNGQ2Yi05NTc1LWE3ODVjYWU1Mjc3OSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Spor"
     },
     {
-      "name": "Tmb Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tmb_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPXdlUVJPa00xSjFwdHJmaDM0SzJycUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDBhYmViMjVjLTMxOTctNDBmNi1iODA5LWU0ZDAzNzEwNjEzYiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Trace Urban",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/traceurban_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUR5RVFUSWNTeFl2N3poc0hNWHFTcXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGRjZDI1NDg5LWQxMzktNDhhNy1hYjkwLWE2YjgwZjJhMTYwYiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Müzik"
     },
     {
-      "name": "Tracks A1",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tarihtv_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=690095463&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPW8xTnpCd0lSYVdaMzhxaG1qK1Uvb2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGFhMjI4NmFjLTkyY2MtNGM5Mi05MWUwLTVlMjFlNWE3ZjUwMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Tv 5 Monde Europe",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv5mondeeurope_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUhrN3BYbFc0eGtsMDNKWGtjSDJ2N1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDM0MWE3NjVkLTkxYWUtNGRjNi1hZDVkLWUyYTAwNmM5NDIxMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Yabancı"
     },
     {
-      "name": "Tracks V1A1",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/360tv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690096887&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTNFcDZnNngyRnVuWkcrK1RPd2I3TUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY5MGIyNzBkLWM3OTEtNDAyOS04MWQ5LTk5NGM4MTcyMWZlNywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Tvnet",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tvnet_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPWk0eVVzSVpsd0ttelFBdHVYTWpkYWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDRhOTc5YjljLTU4YzctNDQ0Zi05NWI5LTA1M2IzOWE5ZjQ2NywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Tracks V2A1",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/tracks-v2a1/mono.ts.m3u8?nimblesessionid=690096464&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPUh2NXBJK2EyNXdMQm5RNVo2U29vYkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg2YWUxYjU3LWEwYTgtNDQ4Yi1hNDc2LTIxMWY4MjcxOGRhOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Türkmeneli TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/turkmenelitv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPU54SzdRdm1jdUl1UWJOZUY5bC94aEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGQ5ODU4MWVlLThkYzEtNDk3NS04OTZjLWU3MDViNTYzYmVkMSwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Tracks V4A1",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/360tv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=690096887&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTNFcDZnNngyRnVuWkcrK1RPd2I3TUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY5MGIyNzBkLWM3OTEtNDAyOS04MWQ5LTk5NGM4MTcyMWZlNywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Ulusal Kanal",
+      "url": "https://cdn02.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=254034090&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPW8zdHJuUjZlY2FLSXV5YmIyNGVuWUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg2YWUxYjU3LWEwYTgtNDQ4Yi1hNDc2LTIxMWY4MjcxOGRhOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Trt3Spor Tbmmtv Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trt3spor-tbmmtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPW5zQ3lxUXQyZVc5bmo3Z29LM01Damc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGJjMzNkMjk1LWMxOGUtNDk1NS1iNWZmLWQ2ZDhlYTVmZjdmNCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Vav TV",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/vavtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPW1Mb1lCZGNqc2lIQ0lFZUhSSUxHaUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDc3NmMzMDFlLTM1YWQtNDU2My1iYzY5LTU5ZDM5ZmM0ZjI1NCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     },
     {
-      "name": "Trtgenc Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtgenc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPTBoS2hucHZ1aVJxeVZCcG5RWlNqSlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDlmYjhhYTUwLWU4OGQtNGZiYS1iMjY2LWJjZTIwYmVkNzNkMiwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Viasat Explore",
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=145155810&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXF5VFhKcXZDRWhUM1ZGU21GVGFvQmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDA3Mzk5NmY1LWI3ZjMtNDAyNi05N2NkLTgyMDQ0MDlmODY3OCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
     },
     {
-      "name": "Tv100 Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv100_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPU1LMXlRcGlWZm5rM0UxNER2dzNlNEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDU2MTBhMjU0LWVmMWQtNDRhNC05NGZlLTc0YjM4Y2M3Y2MyZCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "Viasat History",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub2/viasathistory_stream/tracks-a1/mono.ts.m3u8?nimblesessionid=145155764&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPVFrakUwY2V6UGw0dnNKdkx3WWpGc2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGI5OTc2OWEyLWJiYjUtNGQyMC05YTQ3LTU0NDkyZDAzNjIyNiwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Belgesel & Doğa"
     },
     {
-      "name": "Tv4 Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv4_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPUNaK3BjY3JtT3R3OWt0ZTBrWnF4QWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGNkM2Y2ZTMzLTUyY2EtNDY5Ni04Mjg1LTcwMDdmODUwZTdjNywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
-    },
-    {
-      "name": "Tv42 Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv42_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPWppQnBGT0JhNmwxcHRib2FnekdJRGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGVkNjI3NjdjLTZlZmYtNDdhOS1iOGQyLWU0MzAxYjhlM2UwMywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
-    },
-    {
-      "name": "Tv5 Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv5_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPVozNW92UGFPbjdjdmQ1Q3RwUHlFcnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLGY0ODRhYTM2LTdjOTQtNDYzNS05MGJiLTc3NjA0NjliZDc5MywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
-    },
-    {
-      "name": "Tvnet Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tvnet_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPUhuMzdaT0Iyb0tzaEoxM3NYNlhZVVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDRhOTc5YjljLTU4YzctNDQ0Zi05NWI5LTA1M2IzOWE5ZjQ2NywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
-    },
-    {
-      "name": "Ulusalkanal Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPUh2NXBJK2EyNXdMQm5RNVo2U29vYkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDg2YWUxYjU3LWEwYTgtNDQ4Yi1hNDc2LTIxMWY4MjcxOGRhOCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
-    },
-    {
-      "name": "Vavtv Stream",
-      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/vavtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPXh2a3JwdFQveUxwNXgzbGlRUGp4aHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDc3NmMzMDFlLTM1YWQtNDU2My1iYzY5LTU5ZDM5ZmM0ZjI1NCwsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "name": "beIN Sports Haber",
+      "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPUFKZEcxdGcraVlQV29hRGRabUNuWlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDBiYzQzNDA0LWVmNTctNDEzNi04YzE5LTA5Mzg4ZTIwMjMzMCwsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Haber"
     },
     {
       "name": "Ülke TV",
-      "url": "https://cdn04.kablowebtv.net/live_turksat_sub3/ulketv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=690095028&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjcvMjAyNiAxMDo0NjowMCBBTSZoYXNoX3ZhbHVlPXlwTnE0eVN6M1d1OGtFQ3FEb1RZUEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDBiMzhkNWJkLTVjYzUtNDU5NS04ZTJkLWJjN2E4MTE5YmI1NywsMTg4LjIxMy4zNC4xNzgsMTc3NDYxOTE2MCZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl"
+      "url": "https://cdn06.kablowebtv.net/live_turksat_sub3/ulketv_stream/tracks-v4a1/mono.ts.m3u8?nimblesessionid=145155392&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjgvMjAyNiAxMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPXFyVGZnVjNWNnoybjVpcFR4SE1JTEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1hMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDBiMzhkNWJkLTVjYzUtNDU5NS04ZTJkLWJjN2E4MTE5YmI1NywsMTg4LjIxMy4zNC4xNzgsMTc3NDY2ODA0NyZjbGllbnRfaXA9MTg4LjIxMy4zNC4xNzgmY2hlY2tpcD10cnVl",
+      "group": "Ulusal"
     }
   ]
 }
